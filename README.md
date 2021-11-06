@@ -1,5 +1,7 @@
 # Waste-Disposal-System
 
+By: Rayan Mokdad, Slader Moon, Anika Preema, and Farhan Rahman
+
 ## Executive Summary
 As large amounts of garbage are sent to recycling facilities, an extremely large number of recyclable materials are not recycled properly. With the current recycling situation, recycling bins full of recyclable material are often deemed contaminated if a singular piece of garbage is present, and the entire contents of the bin is thrown into landfill. Rather than just sitting in landfills taking up space, depending on the material of these objects, they can be repurposed and reused which stops further fabrication of the same objects. We believe this is an easy fix, and an extremely important one to make. This issue of not dealing with recyclable materials properly was a huge motivation for use while developing our system. We realized how detrimental our current system for sorting and recycling materials is on our environment. We believe an autonomous sorting station using robotic arms, terrestrial drones, and a mechanism to release these recyclables will solve this issue.  
 
